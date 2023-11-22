@@ -2376,11 +2376,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IvanShabunin\\source\\repos\\TestGraphPlanner\\TestGraphPlanner\\IvanTelegramBot.csproj",
+      "projectUniqueName": "C:\\Users\\IvanShabunin\\source\\repos\\IvanTelegramBot\\IvanTelegramBot\\IvanTelegramBot.csproj",
       "projectName": "IvanTelegramBot",
-      "projectPath": "C:\\Users\\IvanShabunin\\source\\repos\\TestGraphPlanner\\TestGraphPlanner\\IvanTelegramBot.csproj",
+      "projectPath": "C:\\Users\\IvanShabunin\\source\\repos\\IvanTelegramBot\\IvanTelegramBot\\IvanTelegramBot.csproj",
       "packagesPath": "C:\\Users\\IvanShabunin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IvanShabunin\\source\\repos\\TestGraphPlanner\\TestGraphPlanner\\obj\\",
+      "outputPath": "C:\\Users\\IvanShabunin\\source\\repos\\IvanTelegramBot\\IvanTelegramBot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IvanShabunin\\AppData\\Roaming\\NuGet\\NuGet.Config",

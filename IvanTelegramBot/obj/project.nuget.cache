@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RmdsyHl5ZpYnllILSHO6ECjbbp+Qi3UYOWDoI8U0zp1ZveNj62OtNZEeOitD85Xy0CVYJvmvw71VRUzscST0KA==",
+  "dgSpecHash": "Ye47AJfLNlHg7e8YdLyfj52UsTTYrKwLHa+8V7zwI3idDSoi66xuJJ/ZbFASS9gCthVNt/EeNBqWWqT7LDfCMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IvanShabunin\\source\\repos\\TestGraphPlanner\\TestGraphPlanner\\IvanTelegramBot.csproj",
+  "projectFilePath": "C:\\Users\\IvanShabunin\\source\\repos\\IvanTelegramBot\\IvanTelegramBot\\IvanTelegramBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IvanShabunin\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
     "C:\\Users\\IvanShabunin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
